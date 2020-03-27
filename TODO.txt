@@ -1,0 +1,2 @@
+scrape dat
+save results in csv, add the date. 
