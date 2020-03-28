@@ -45,7 +45,7 @@ tables = soup.find_all('table')
 tablelist = pd.read_html(str(tables))
       
 # dump it to csv
-path = ('c:/Users/Gergo_PC/Documents/code/webscraping/covidData/')
+path = ('covidData/')
 tablelist[0].to_csv(path+text+fileName+'.csv')
 
 
