@@ -1,0 +1,57 @@
+,County,Positive Cases
+0,Albany,195
+1,Allegany,2
+2,Broome,23
+3,Cattaraugus,1
+4,Cayuga,2
+5,Chautauqua,5
+6,Chemung,12
+7,Chenango,8
+8,Clinton,12
+9,Columbia,22
+10,Cortland,5
+11,Delaware,8
+12,Dutchess,262
+13,Erie,318
+14,Essex,4
+15,Franklin,4
+16,Fulton,1
+17,Genesee,7
+18,Greene,7
+19,Hamilton,2
+20,Herkimer,9
+21,Jefferson,6
+22,Livingston,5
+23,Madison,19
+24,Monroe,192
+25,Montgomery,5
+26,Nassau,5537
+27,Niagara,33
+28,New York City,29766
+29,Oneida,23
+30,Onondaga,129
+31,Ontario,16
+32,Orange,1101
+33,Orleans,3
+34,Oswego,7
+35,Otsego,7
+36,Putnam,131
+37,Rensselaer,38
+38,Rockland,1896
+39,Saratoga,96
+40,Schenectady,72
+41,Schoharie,5
+42,Schuyler,1
+43,St. Lawrence,8
+44,Steuben,13
+45,Suffolk,4138
+46,Sullivan,72
+47,Tioga,4
+48,Tompkins,45
+49,Ulster,128
+50,Warren,13
+51,Washington,6
+52,Wayne,12
+53,Westchester,7875
+54,Wyoming,7
+55,Total Number of Positive Cases,52318
