@@ -32,7 +32,9 @@ print(updateDate)
 # print(date)
 date0 = datetime.strptime(date, '%B %d, %Y | %I:%M%p')
 # print(date0)
+# formatting date year-month-hour-minutes
 dateStr = datetime.strftime(date0, '%Y_%m_%d__%H_%M')
+# the filename will be saved using the date above
 fileName = dateStr  
 
 # using `find_all` method to find the data table 
