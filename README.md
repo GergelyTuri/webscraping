@@ -7,3 +7,6 @@ and saves the tabulated data in a `.csv` file located in  `/covidData` folder. T
 <br>
 
 See dependencies in `requirements.txt` 
+
+-----------------------------------
+archived 6/2/2021
